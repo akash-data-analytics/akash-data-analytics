@@ -42,5 +42,6 @@ I am a Data Analytics enthusiast with a background in BCA. I enjoy working with 
 
 - LinkedIn: https://www.linkedin.com/in/akash-sk-data-analyst/
 - GitHub: https://github.com/akash-data-analytics
+- Gmail: akashsk2218@gmail.com
 
 
